@@ -1,4 +1,4 @@
-## Hi there  I'm Mehmet — a wild Computer Engineering student madly in love with code 🤪</h1>
+## Hi there  I'm Mehmet — a wild Computer Engineering student madly in love with coding 🤪</h1>
 
 <!--
 **mehnetunlu/mehnetunlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
