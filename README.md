@@ -17,11 +17,9 @@
   <img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-FWVEy3Km3G3lXsDR0S8u1qMY/user-FRaCnzjD1o2Pf0lm6IhP1FEg/img-kRpKwQpEK1ikjMzHKXD8PkhL.png" width="300" />
 </p>
 
-
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
-
 <!--
 **mehnetunlu/mehnetunlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
