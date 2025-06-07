@@ -2,7 +2,7 @@
   <tr>
     <td>
 
-Hi 👋 ! I'm Mehmet , I'm a wild Computer Engineering student madly in love with coding
+Hi 👋 ! I'm Mehmet , I'm a wild Computer Engineering student, madly in love with coding
 
 ![Mehmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehnetunlu&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehnetunlu&layout=compact&theme=radical)
