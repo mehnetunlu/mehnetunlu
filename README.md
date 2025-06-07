@@ -1,28 +1,28 @@
-<h1 align="center">👋 Hi, I'm Mehmet. A wild Computer Engineering student madly in love with coding </h1>
+<table>
+  <tr>
+    <td>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetunlu&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetunlu&layout=compact&theme=tokyonight" width="47%" />
+Hi, I'm Mehmet 👋  A wild Computer Engineering student madly in love with coding 
+
+![Mehmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehnetunlu&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehnetunlu&layout=compact&theme=radical)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetünlü)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unlu.mehmett00@gmail.com)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mehnetunlu)
 
+</td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="mailto:unlu.mehmett00@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mehmetünlü"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
 
 
 <!--
