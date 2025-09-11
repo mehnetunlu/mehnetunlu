@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mehmet!  
 
 
-Machine Learning enthusiast with a passion for Deep Learning, NLP, and Computer Vision. Always exploring new AI challenges and pushing boundaries
+Machine Learning enthusiast with a passion for Deep Learning, NLP, and Computer Vision. I Always exploring new AI challenges and pushing boundaries
 
 
  ### 🔭 What I'm currently learning and work on
