@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mehmet!  
 
 
-I'm a developer passionate about **solving real-world problems with AI**
+Machine Learning enthusiast with a passion for Deep Learning, NLP, and Computer Vision. Always exploring new AI challenges and pushing boundaries
 
 
  ### 🔭 What I'm currently learning and work on
