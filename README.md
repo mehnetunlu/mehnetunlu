@@ -5,10 +5,10 @@ Machine Learning enthusiast with a passion for Deep Learning, NLP, and Computer 
 
 
  ### 🔭 What I'm currently learning and work on
-- Machine Learning projects  
-- Data visualization and analysis   
-- Optimization techniques  
-- Data science tools 
+- Machine Learning algorithms  
+- Data visualization and analysis
+- Data preprocessing
+- scikit-learn library  
 
 
 
